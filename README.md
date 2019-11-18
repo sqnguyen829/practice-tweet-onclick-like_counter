@@ -5,11 +5,16 @@ This react video is aimed for beginners, so if you have never worked with react 
 
 https://www.youtube.com/watch?v=dGcsHMXbSOA
 
-what the code does
+what the code does:
+
 -make a tweet box
+
 -change color of text
+
 -like counter
 
+
 -uses props
+
 -uses state
 
